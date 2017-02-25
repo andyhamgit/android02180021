@@ -1,0 +1,53 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml:3:7-35
+		INJECTED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml:5:7-32
+		INJECTED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml:4:7-30
+		INJECTED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml:7:5-17:19
+	android:label
+		ADDED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml:7:48-80
+	android:icon
+		ADDED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml:7:18-47
+	android:theme
+		ADDED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml:8:9-40
+activity#com.android.coding.Weight
+ADDED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml:9:9-15:20
+	android:label
+		ADDED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml:10:19-51
+	android:name
+		ADDED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml:9:19-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml:11:13-14:29
+action#android.intent.action.MAIN
+ADDED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml:13:17-77
+	android:name
+		ADDED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml:13:27-74
+activity#com.android.coding.Result
+ADDED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml:16:2-45
+	android:name
+		ADDED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml:16:12-33
+uses-sdk
+INJECTED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/andy/AndroidStudioProjects/Android02180021/02 Weight/app/src/main/AndroidManifest.xml
