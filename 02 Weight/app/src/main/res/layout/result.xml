@@ -11,5 +11,6 @@
     android:textSize="20sp"
     android:layout_x="50px"
     android:layout_y="72px"
+      
   />
 </AbsoluteLayout>
