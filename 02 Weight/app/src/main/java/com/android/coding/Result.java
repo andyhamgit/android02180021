@@ -1,11 +1,12 @@
 package com.android.coding;
 
 /* import相关class */
-import java.text.DecimalFormat;
-import java.text.NumberFormat;
 import android.app.Activity;
 import android.os.Bundle;
 import android.widget.TextView;
+
+import java.text.DecimalFormat;
+import java.text.NumberFormat;
 
 public class Result extends Activity 
 {
@@ -19,14 +20,14 @@ public class Result extends Activity
     Bundle bunde = this.getIntent().getExtras();   
     /* 取得Bundle对象中的数据 */
     String sex = bunde.getString("sex");
-    double height = bunde.getDouble("height");  
+    double height = bunde.getDouble("height");
     /*判断性别 */
     String sexText="";
     if(sex.equals("M")){
       sexText="男性";
     }else{
       sexText="女性";
-    }    
+    }
     /* 取得标准体重 */
     String weight=this.getWeight(sex, height);
     
