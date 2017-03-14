@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/zzm/AndroidStudioProjects/androidStudy/RelativeLayout/app/src/main/assets"/><source path="/Users/zzm/AndroidStudioProjects/androidStudy/RelativeLayout/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/zzm/AndroidStudioProjects/androidStudy/RelativeLayout/app/src/debug/assets"/></dataSet></merger>

@@ -1,0 +1,4 @@
+#Mon Mar 13 13:15:35 CST 2017
+base.0=/Users/zzm/AndroidStudioProjects/androidStudy/RelativeLayout/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/zzm/AndroidStudioProjects/androidStudy/RelativeLayout/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
