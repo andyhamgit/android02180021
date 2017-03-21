@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/widget42"
+	android:layout_width="fill_parent" 
+	 android:layout_height="fill_parent"
+	android:orientation="vertical"
+	 xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<EditText android:id="@+id/monitor" 
+	    android:layout_width="320px"
+		android:layout_height="106px"
+		 android:text="@string/question"
+		android:textSize="18sp">
+	</EditText>
+	    <RadioGroup    
+        android:id="@+id/radioGroup"  
+        android:orientation="vertical"  
+        android:layout_width="wrap_content"  
+        android:layout_height="wrap_content">
+			<RadioButton android:id="@+id/a"
+				android:layout_width="wrap_content"
+				 android:layout_height="wrap_content"
+				android:text="on">
+			</RadioButton>
+			<RadioButton android:id="@+id/b"
+				android:layout_width="wrap_content"
+				 android:layout_height="wrap_content"
+				android:text="at">
+			</RadioButton>
+			<RadioButton android:id="@+id/c"
+				android:layout_width="wrap_content"
+				 android:layout_height="wrap_content"
+				android:text="of">
+			</RadioButton>
+			<RadioButton android:id="@+id/d"
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content"
+				android:text="in">
+			</RadioButton>
+		</RadioGroup>
+		
+	<Button android:id="@+id/sure" 
+	    android:layout_width="153px"
+		android:layout_height="wrap_content" 
+		android:text="@string/sure"
+		android:textSize="24sp" 
+		android:textStyle="bold">
+	</Button>
+	<Button android:id="@+id/cancel" 
+	    android:layout_width="151px"
+		android:layout_height="wrap_content"
+		 android:text="@string/cancel"
+		android:textSize="24sp"
+		 android:textStyle="bold">
+	</Button>
+</LinearLayout>
