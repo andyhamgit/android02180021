@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 该文件是Activity02.java所使用的布局文件 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<!-- 下面的标签声明了一个Buttin(按钮)控件，并未这个控件设置了ID，这个ID会被注册到R.java文件当中 -->
+<Button
+	android:id="@+id/myButton"
+	android:text="@string/btn"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	/>
+</LinearLayout>

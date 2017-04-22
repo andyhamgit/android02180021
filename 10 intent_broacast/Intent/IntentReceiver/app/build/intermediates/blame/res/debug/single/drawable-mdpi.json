@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zzm/AndroidStudioProjects/andy/Intent/IntentReceiver/app/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
+        "source": "/Users/zzm/AndroidStudioProjects/andy/Intent/IntentReceiver/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/zzm/AndroidStudioProjects/IntentReceiver/app/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
+        "source": "/Users/zzm/AndroidStudioProjects/IntentReceiver/app/src/main/res/drawable-mdpi/icon.png"
+    }
+]

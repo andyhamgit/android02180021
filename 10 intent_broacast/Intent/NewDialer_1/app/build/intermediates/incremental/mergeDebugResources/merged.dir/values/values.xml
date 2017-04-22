@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NewDialer</string>
+    <string name="button">拨号</string>
+    <string name="notify_incorrect_phonenum">您输入的号码不正确，请重新输</string>
+</resources>

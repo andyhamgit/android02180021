@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IntentReceiver</string>
+    <string name="btn">跳转到另外intent</string>
+    <string name="hello">Hello World, IntentReceiver!</string>
+    <string name="other">OtherActivity</string>
+</resources>

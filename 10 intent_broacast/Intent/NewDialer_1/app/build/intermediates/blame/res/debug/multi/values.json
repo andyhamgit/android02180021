@@ -1,0 +1,126 @@
+[
+    {
+        "outputFile": "/Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "/Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 60,
+                        "endColumn": 46,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 37,
+                    "endOffset": 135
+                },
+                "from": {
+                    "file": "/Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 104,
+                        "endColumn": 33,
+                        "endOffset": 137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 140,
+                    "endColumn": 68,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "/Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 138,
+                        "endColumn": 64,
+                        "endOffset": 202
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/zzm/AndroidStudioProjects/NewDialer_1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "/Users/zzm/AndroidStudioProjects/NewDialer_1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 60,
+                        "endColumn": 46,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 37,
+                    "endOffset": 135
+                },
+                "from": {
+                    "file": "/Users/zzm/AndroidStudioProjects/NewDialer_1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 104,
+                        "endColumn": 33,
+                        "endOffset": 137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 140,
+                    "endColumn": 68,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "/Users/zzm/AndroidStudioProjects/NewDialer_1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 138,
+                        "endColumn": 64,
+                        "endOffset": 202
+                    }
+                }
+            }
+        ]
+    }
+]

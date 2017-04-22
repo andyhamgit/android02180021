@@ -1,0 +1,62 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml:3:7-33
+		INJECTED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml:5:7-32
+		INJECTED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml:4:7-30
+		INJECTED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml:6:5-19:19
+	android:label
+		ADDED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml:6:48-80
+	android:icon
+		ADDED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml:6:18-47
+activity#com.andy.android.NewDialer
+ADDED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml:7:9-17:20
+	android:label
+		ADDED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml:8:19-51
+	android:name
+		ADDED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml:7:19-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml:9:13-12:29
+action#android.intent.action.MAIN
+ADDED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml:10:17-69
+	android:name
+		ADDED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml:10:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml:11:17-77
+	android:name
+		ADDED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml:11:27-74
+intent-filter#android.intent.action.CALL_BUTTON+android.intent.category.DEFAULT
+ADDED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml:13:14-16:29
+action#android.intent.action.CALL_BUTTON
+ADDED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml:14:18-76
+	android:name
+		ADDED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml:14:26-74
+category#android.intent.category.DEFAULT
+ADDED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml:15:22-81
+	android:name
+		ADDED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml:15:32-78
+uses-sdk
+ADDED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml:20:15-40
+		INJECTED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml:21:5-69
+	android:name
+		ADDED from /Users/zzm/AndroidStudioProjects/andy/Intent/NewDialer_1/app/src/main/AndroidManifest.xml:21:22-66
