@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Sat Apr 29 00:34:35 CST 2017
+1.base=C\:\\Users\\zhbit\\Desktop\\andy\\as\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\zhbit\\Desktop\\andy\\as\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+1.file=C\:\\Users\\zhbit\\Desktop\\andy\\as\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+2.base=C\:\\Users\\zhbit\\Desktop\\andy\\as\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\zhbit\\Desktop\\andy\\as\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\gequ.mp3
+count=5
+1.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\zhbit\\Desktop\\andy\\as\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\zhbit\\Desktop\\andy\\as\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\zhbit\\Desktop\\andy\\as\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+0.file=C\:\\Users\\zhbit\\Desktop\\andy\\as\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.base=C\:\\Users\\zhbit\\Desktop\\andy\\as\\simplePlay1\\app\\build\\intermediates\\res\\resources-debug.ap_

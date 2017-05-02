@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhbit\Desktop\andy\as\simplePlay1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="68764c88a2b7da450b246ed6639aa2fef1531031">
+        <dex dex="C:\Users\zhbit\Desktop\andy\as\simplePlay1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8f5593f93724414ba5b01903162411916abb44f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhbit\Desktop\andy\as\simplePlay1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c9eafb21ccb76b0ade4b6f458cf017d9cac4b95b">
+        <dex dex="C:\Users\zhbit\Desktop\andy\as\simplePlay1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5fd1cb8985b81bd9343d705cfe6f24a202578f9b\classes.dex" />
+    </item>
+
+</items>

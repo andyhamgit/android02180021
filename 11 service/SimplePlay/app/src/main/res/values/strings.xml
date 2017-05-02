@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimplePlay</string>
+    <string name="call_alarm_service">call_alarm_service</string>
+    <string name="exit">Exit</string>
+    <string name="start_play">Start_Play</string>
+    <string name="stop_play">Stop_Play</string>
+    <string name="alarm_service">Alarm_Service</string>
+    <string name="music_play">Music_Play</string>
+</resources>

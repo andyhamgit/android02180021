@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhbit\Desktop\andy\as\alarmService\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2176e2e2df1eeb4a93b4f13f2dfe102f52daa0bb">
+        <dex dex="C:\Users\zhbit\Desktop\andy\as\alarmService\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9b77a7e12e635185cb5dc3f9b84d741d9536c3bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhbit\Desktop\andy\as\alarmService\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="339e14801f67e026d6cafdef835a902bbb636497">
+        <dex dex="C:\Users\zhbit\Desktop\andy\as\alarmService\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_13f8126e3b45a2513f827092cf2e5fc206428ad1\classes.dex" />
+    </item>
+
+</items>

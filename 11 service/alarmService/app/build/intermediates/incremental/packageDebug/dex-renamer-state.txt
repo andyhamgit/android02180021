@@ -1,0 +1,7 @@
+#Sat Apr 29 00:16:01 CST 2017
+base.0=C\:\\Users\\zhbit\\Desktop\\andy\\as\\alarmService\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_13f8126e3b45a2513f827092cf2e5fc206428ad1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\zhbit\\Desktop\\andy\\as\\alarmService\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9b77a7e12e635185cb5dc3f9b84d741d9536c3bb\\classes.dex
+base.1=C\:\\Users\\zhbit\\Desktop\\andy\\as\\alarmService\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9b77a7e12e635185cb5dc3f9b84d741d9536c3bb
+file.0=C\:\\Users\\zhbit\\Desktop\\andy\\as\\alarmService\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_13f8126e3b45a2513f827092cf2e5fc206428ad1\\classes.dex

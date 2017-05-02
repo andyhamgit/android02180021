@@ -1,0 +1,56 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml:7:5-25:19
+	android:label
+		ADDED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml:8:9-38
+activity#com.studio.android.alarmService
+ADDED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml:10:9-18:20
+	android:label
+		ADDED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml:12:13-45
+	android:name
+		ADDED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml:11:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml:16:27-74
+receiver#com.studio.android.AlarmReceiver
+ADDED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml:20:9-21:20
+	android:name
+		ADDED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml:20:19-48
+service#com.studio.android.NotifyService
+ADDED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml:23:9-24:19
+	android:name
+		ADDED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml:23:18-47
+uses-sdk
+ADDED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml:27:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml:27:15-40
+		INJECTED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zhbit\Desktop\andy\as\alarmService\app\src\main\AndroidManifest.xml
